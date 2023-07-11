@@ -10,4 +10,3 @@ Missing imputation can be a part of your pipeline as well.
 - Task:
 1. Predict the probability of a candidate will work for the company.
 2. Interpret model(s) such a way that illustrate which features affect candidate decision.
-3. 
